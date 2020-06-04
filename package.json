@@ -1,6 +1,6 @@
 {
   "name": "eos-name-verify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "eos account name checks",
   "main": "index.js",
   "scripts": {
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bitfinexcom/eos-name-verify.git"
+    "url": "git+https://github.com/Leask/eos-name-verify.git"
   },
   "keywords": [
     "eos"
   ],
-  "author": "Robert <robert@bitfinex.com>",
+  "author": "Robert <robert@bitfinex.com>, Leask Wong <i@leaskh.com>",
   "license": "Apache-2.0",
   "devDependencies": {
     "mocha": "^6.0.2",
